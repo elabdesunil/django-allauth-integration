@@ -19,7 +19,7 @@ pip install -r requirements.txt
 Migrate database `python manage.py migrate`
 Create superuser `python manage.py createsuperuser`
 
-Follow steps in the [section](#-Setup-the-site-in-Django-admin-dashboard)
+Follow steps in the [section](###Setup-the-site-in-Django-admin-dashboard)
 
 `python manage.py runserver`
 

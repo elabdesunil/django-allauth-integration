@@ -1,9 +1,16 @@
 # Django-allauth integration
 
+- [Django-allauth integration](#django-allauth-integration)
+  - [Installation Guide](#installation-guide)
+  - [Build up from the beginning guide](#build-up-from-the-beginning-guide)
+    - [Setup the site in Django admin dashboard](#setup-the-site-in-django-admin-dashboard)
+    - [Creating Homepage](#creating-homepage)
+    - [Run](#run)
+
 ## Installation Guide
 
-Setup a virtual environment
-for windows
+Setup a virtual environment -
+for windows the commands are as follows
 
 ```
 pip -m venv .env
